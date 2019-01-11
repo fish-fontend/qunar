@@ -15,4 +15,4 @@ css-loader style-loader 好像被包含在vue-loader 里面了
 因为有一个编译的过程，所以并不能直接使用 相对路径来链接
 要使用
 - router-link
-- img
+- img 直接使用相对路径就行了，真的神奇666,不过webpack真的难配置
