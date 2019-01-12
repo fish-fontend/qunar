@@ -1,6 +1,16 @@
 # qnr
 
-> A Vue.js project
+## 架构
+- Home
+  - Header
+  - Swiper
+  - Icons
+  - Recommend
+
+### CSS
+normalize.css 进行reset,同时有些样式我不是很满意，就添加了reset.css
+
+使用SCSS进行预处理
 
 ## Build Setup
 

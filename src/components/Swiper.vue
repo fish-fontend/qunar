@@ -23,6 +23,7 @@ export default {
 }
 </script>
 <style scope lang="scss">
+// 通过vw来设置宽高比
 img{
   width: 100%;
   height: 66vw;

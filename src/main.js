@@ -6,6 +6,7 @@ import App from './App'
 import router from './router'
 
 import 'normalize.css'
+import './assets/reset.css'
 // require styles
 import 'swiper/dist/css/swiper.css'
 
