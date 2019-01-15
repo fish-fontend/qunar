@@ -22,7 +22,8 @@ export default {
   }
 }
 </script>
-<style scope lang="scss">
+<!--scoped单词不能拼写错误，我去-->
+<style scoped lang="scss">
 // 通过vw来设置宽高比
 img{
   width: 100%;

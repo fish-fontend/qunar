@@ -3,7 +3,9 @@
     <div class="container flex">
       <div class="return">返回</div>
       <div class="input"><input placeholder="搜索城市"></div>
-      <div class="city">城市</div>
+      <router-link to='/city'>
+        <div class="city">城市</div>
+      </router-link>
     </div>
   </div>
 </template>

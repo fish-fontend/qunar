@@ -7,10 +7,9 @@
   - Icons
   - Recommend
 
-### CSS
-normalize.css 进行reset,同时有些样式我不是很满意，就添加了reset.css
+## [modules](./modules.md)
 
-使用SCSS进行预处理
+## [note](./note.md)
 
 ## Build Setup
 

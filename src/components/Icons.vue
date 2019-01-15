@@ -49,4 +49,8 @@ export default {
   height: 19vw;
   padding: 3vw;
 }
+// 覆盖swiper.css 给的样式
+img{
+  height: 100%;
+}
 </style>
